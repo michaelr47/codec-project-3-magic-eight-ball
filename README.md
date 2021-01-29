@@ -1,5 +1,5 @@
 # codec-project-3-magic-eight-ball
-//The user will be able to input a question, then our program will output a random fortune. js
+//The user will be able to input a question, then our program will output a random fortune. codecademy proj conditonals section
 
 let userName = 'Mike';
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
